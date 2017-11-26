@@ -15,6 +15,5 @@ public class Main {
 		System.out.println(sm.buy("orange", 50));
 		System.out.println(sm.buy("kole", 50));	
 		System.out.println(sm.buy("orange", 50));
-		
 	}
 }
